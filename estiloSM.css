@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+@media screen and (max-width:360px) {
+    input[type=text] {
+    	border: solid;
+        border-radius: 10px;
+        font-family:"Baloo";
+        font-size: 36px;
+        float: right;
+        margin: 8.5px ;
+        width: 120px;
+        height: 144px;
+        padding-left: 17px;
+    }
+    input.a,input.c{
+    	background-color:#dfedd6;
+    }
+    input.b,input.d{
+    	background-color:#f7fade;
+    }
+}

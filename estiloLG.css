@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+/*@media screen and (min-width:1600px) {*/
+    input[type=text] {
+    	border: solid;
+        border-radius: 10px;
+        text-align: center;
+        font-family:"Baloo";
+        font-size: 36px;
+        display: block; 
+        margin: 7.5px auto 7.5px;
+        width: 120px;
+        height: 120px;
+        /*padding: 42px;*/
+    }
+    input.a,input.c{
+    	background-color:#dfedd6;
+    }
+    input.b,input.d{
+    	background-color:#f7fade;
+    }
+/*}*/
